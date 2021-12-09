@@ -1,4 +1,4 @@
-CCM_Mount_A 8個
+CCM_Mount_A 12(8)個
 CCM_Mount_B 2個
 CCM_Mount_C 6個
 CCM_Mount_D 6個
@@ -9,3 +9,5 @@ Display_Mount_A 1個
 Display_Mount_B 1個
 DragChain_Guide_A 2個
 DragChain_Guide_B 1個
+CCM_Motor_Mount_A 4個
+CCM_Motor_Mount_B 4個
